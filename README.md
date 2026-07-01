@@ -315,18 +315,6 @@ Valorizo projetos que mostrem não apenas código, mas também:
 
 ---
 
-## Estatísticas do GitHub
-
-<div align="center">
-
-![Davi GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaviMoraisdev&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviMoraisdev&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## Objetivo profissional
 
 Busco evoluir como **Desenvolvedor Back-End Júnior / Engenheiro de Software Júnior**, contribuindo em projetos onde eu possa aplicar fundamentos sólidos de programação, arquitetura, banco de dados, segurança e boas práticas de desenvolvimento.
