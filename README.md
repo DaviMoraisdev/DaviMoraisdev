@@ -275,7 +275,7 @@ Atualmente meus estudos estão focados em:
 - Banco de dados relacional e não relacional
 - Docker e ambientes locais de desenvolvimento
 - Microsserviços
-- Certificações Profissionais 
+- Certificações Profissionais
 - Segurança em aplicações web
 - Testes automatizados
 - GitHub Actions
