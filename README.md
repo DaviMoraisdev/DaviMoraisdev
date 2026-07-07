@@ -114,7 +114,7 @@ Minhas principais capacidades técnicas em desenvolvimento são:
 | Segurança | Proteção contra exposição de dados sensíveis, uso de variáveis de ambiente e boas práticas em APIs |
 | Docker | Criação de ambientes locais, containers e orquestração com Docker Compose |
 | Versionamento | Uso de Git, branches, commits descritivos e Pull Requests |
-| Documentação | READMEs técnicos, decisões de arquitetura, roadmap e instruções de execução |
+| Documentação | READMEs técnicos,Documentação, decisões de arquitetura, roadmap e instruções de execução |
 | Aprendizado contínuo | Evolução por projetos, revisão técnica e estudo de fundamentos |
 
 ---
