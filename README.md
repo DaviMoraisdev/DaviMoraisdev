@@ -256,7 +256,7 @@ Node.js | TypeScript | Docker | PostgreSQL | Redis | WebSockets | React | Next.j
 [x] Node.js e APIs REST
 [x] TypeScript aplicado a projetos
 [x] Docker e Docker Compose
-[ ] Testes automatizados
+[x] Testes automatizados
 [ ] CI/CD com GitHub Actions
 [ ] Microsserviços em produção
 [ ] Monitoramento e observabilidade
@@ -275,6 +275,7 @@ Atualmente meus estudos estão focados em:
 - Banco de dados relacional e não relacional
 - Docker e ambientes locais de desenvolvimento
 - Microsserviços
+- Certificações Profissionais 
 - Segurança em aplicações web
 - Testes automatizados
 - GitHub Actions
