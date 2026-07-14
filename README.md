@@ -126,17 +126,6 @@ Gosto de projetos que mostram não só o código, mas o **raciocínio**: por que
 
 <div align="center">
 
-📊 **Estatísticas do GitHub**
-
-![Stats](https://github-readme-stats.vercel.app/api?username=DaviMoraisdev&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviMoraisdev&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
 _Em evolução constante — construindo projetos para aprender, documentar e entregar._
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/DaviMoraisdev)
