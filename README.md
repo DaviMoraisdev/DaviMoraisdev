@@ -120,7 +120,7 @@ Projetos futuros para praticar infraestrutura e observabilidade:
 
 ## Como trabalho
 
-Gosto de projetos que mostram não só o código, mas o **raciocínio**: por que aquela arquitetura, como rodar localmente, quais problemas apareceram e como foram resolvidos. Sigo um fluxo simples — planejar, documentar, implementar por fases, revisar, testar.
+Tento trabalhar de forma simples com projetos que mostram não só o código, mas o **raciocínio**: por que aquela arquitetura, como rodar localmente, quais problemas apareceram e como foram resolvidos. Sigo um fluxo simples — planejar, documentar, implementar por fases, revisar, testar.
 
 ---
 
