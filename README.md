@@ -126,8 +126,6 @@ Gosto de projetos que mostram não só o código, mas o **raciocínio**: por que
 
 <div align="center">
 
-_Em evolução constante — construindo projetos para aprender, documentar e entregar._
-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/DaviMoraisdev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-morais-b558b2261)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davimorais063@gmail.com)
