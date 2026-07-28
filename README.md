@@ -74,7 +74,7 @@ Meu projeto principal de portfólio: uma aplicação de e-commerce com serviços
 
 ➡️ [DaviMoraisdev/ecommerce-platform](https://github.com/DaviMoraisdev/ecommerce-platform)
 
-### 💼 Portfolio2026 · _em desenvolvimento_
+### 💼 Portfolio2026 · 
 
 Portfólio pessoal para apresentar perfil, projetos e contato.
 
