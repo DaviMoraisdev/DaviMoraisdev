@@ -62,9 +62,9 @@ Meu objetivo é chegar a uma primeira oportunidade (estágio ou júnior) com uma
 
 ---
 
-## Projeto em destaque
+## Projetos em destaque
 
-### 🛒 Plataforma de E-commerce com Microsserviços · _em andamento_
+###  Plataforma de E-commerce com Microsserviços · _em andamento_
 
 Meu projeto principal de portfólio: uma aplicação de e-commerce com serviços independentes, comunicação entre sistemas, mensageria e infraestrutura local com Docker. A ideia é aprender arquitetura distribuída construindo de verdade, por fases documentadas.
 
@@ -74,7 +74,7 @@ Meu projeto principal de portfólio: uma aplicação de e-commerce com serviços
 
 ➡️ [DaviMoraisdev/ecommerce-platform](https://github.com/DaviMoraisdev/ecommerce-platform)
 
-### 💼 Portfolio2026 · 
+###  Portfolio2026 · 
 
 Portfólio pessoal para apresentar perfil, projetos e contato.
 
@@ -96,9 +96,9 @@ Concluído
   [x] TypeScript aplicado a projetos
 
 Em andamento
-  [~] Docker e Docker Compose
-  [~] Microsserviços
-  [~] Testes automatizados
+  [x] Docker e Docker Compose
+  [x] Microsserviços
+  [x] Testes automatizados
   [~] Autenticação e segurança em APIs
 
 Próximos passos
