@@ -9,7 +9,6 @@ Estudante de Análise e Desenvolvimento de Sistemas (2º período), construindo 
 [![GitHub](https://img.shields.io/badge/GitHub-DaviMoraisdev-181717?style=for-the-badge&logo=github)](https://github.com/DaviMoraisdev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Davi%20Morais-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-morais-b558b2261)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2026-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/DaviMoraisdev/Portfolio2026)
-[![Email](https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davimorais063@gmail.com)
 
 </div>
 
