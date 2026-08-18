@@ -16,7 +16,7 @@ Estudante de Análise e Desenvolvimento de Sistemas (3º período), construindo 
 
 ## Sobre
 
-Estudo desenvolvimento back-end e gosto de entender como as coisas funcionam por baixo: como uma API valida uma requisição, como serviços conversam entre si, como um dado persiste com segurança. Aprendo construindo — cada projeto de portfólio é uma desculpa para aprofundar um fundamento novo.
+Estudo desenvolvimento back-end e tenho apreço pela área pelo amplo cenário de aprendizado que ela pode me proporcionar: como uma API valida uma requisição, como serviços conversam entre si, como um dado persiste com segurança. Busco aprender de forma prática, construindo projetos pessoais full-stack para sempre estar a parte de todas as tecnologias atuais do mercado 
 
 Meu objetivo é chegar a uma primeira oportunidade (estágio ou júnior) com uma base sólida em back-end, banco de dados e boas práticas de engenharia, para crescer dentro de um time real.
 
