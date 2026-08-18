@@ -114,12 +114,14 @@ Projetos futuros para praticar infraestrutura e observabilidade:
 
 - **Cloud Resource Manager** — gerenciamento e monitoramento de servidores (status, logs, alertas, painel administrativo).
 - **InfraSight** — dashboard de containers com métricas de CPU/memória/rede em tempo real.
+- **CyberShield** - Plataforma inteligente de monitoramento e detecção de ameaças CyberSec e Dados
+- **Sistema de detecção de phising em e-mails** - Relacionado a Dados e Machine Learning 
 
 ---
 
 ## Como trabalho
 
-Tento trabalhar de forma simples com projetos que mostram não só o código, mas o **raciocínio**: por que aquela arquitetura, como rodar localmente, quais problemas apareceram e como foram resolvidos. Sigo um fluxo simples — planejar, documentar, implementar por fases, revisar, testar.
+Trabalho de maneira simples com projetos que mostram não só o código, mas o **raciocínio**: por que aquela arquitetura, como rodar localmente, quais problemas apareceram e como foram resolvidos. Sigo um fluxo de — planejar, documentar, implementar por fases, revisar, testar.
 
 ---
 
