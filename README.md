@@ -4,7 +4,7 @@
 
 ### Desenvolvedor Back-End em formação
 
-Estudante de Análise e Desenvolvimento de Sistemas (2º período), construindo projetos práticos com foco em **APIs**, **arquitetura de software**, **bancos de dados** e **infraestrutura com Docker**.
+Estudante de Análise e Desenvolvimento de Sistemas (3º período), construindo projetos práticos com foco em **APIs**, **arquitetura de software**, **bancos de dados** e **infraestrutura com Docker**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-DaviMoraisdev-181717?style=for-the-badge&logo=github)](https://github.com/DaviMoraisdev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Davi%20Morais-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-morais-b558b2261)
