@@ -111,10 +111,10 @@ Trilha de estudo com projeto dedicado, laboratórios versionados e cronograma pr
 
 | Certificação | Situação | Alvo |
 |---|---|---|
-| LPI Linux Essentials (010-160) | Em preparação | Novembro de 2026 |
-| GitHub Foundations | Planejada | 2026/2027 |
-| Red Hat Certified System Administrator (EX200) | Planejada | A definir |
-| AWS Certified Solutions Architect – Associate | Planejada | A definir |
+| ![LPI Linux Essentials](https://img.shields.io/badge/LPI-Linux%20Essentials%20010--160-EFAE00?style=for-the-badge&logo=linux&logoColor=black) | ![Em preparação](https://img.shields.io/badge/Em%20preparação-2563EB?style=for-the-badge) | Novembro de 2026 |
+| ![GitHub Foundations](https://img.shields.io/badge/GitHub-Foundations-181717?style=for-the-badge&logo=github&logoColor=white) | ![Planejada](https://img.shields.io/badge/Planejada-4B5563?style=for-the-badge) | 2026 / 2027 |
+| ![RHCSA](https://img.shields.io/badge/Red%20Hat-RHCSA%20EX200-EE0000?style=for-the-badge&logo=redhat&logoColor=white) | ![Planejada](https://img.shields.io/badge/Planejada-4B5563?style=for-the-badge) | A definir |
+| ![AWS SAA](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white) | ![Planejada](https://img.shields.io/badge/Planejada-4B5563?style=for-the-badge) | A definir |
 
 ---
 
@@ -174,7 +174,15 @@ Meus projetos mostram não só o código, mas o **raciocínio**: por que aquela 
 
 <br><br>
 
-<!-- Cards gerados pelo workflow .github/workflows/profile-summary-cards.yml -->
+<!--
+  Cards gerados pelo workflow .github/workflows/profile-summary-cards.yml.
+  Só renderizam depois que a Action rodar e criar a pasta profile-summary-card-output/.
+
+  Alternativa imediata (servidor externo, sem depender da Action):
+  https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaviMoraisdev&theme=github_dark
+  https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaviMoraisdev&theme=github_dark
+  https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaviMoraisdev&theme=github_dark&utcOffset=-3
+-->
 <img src="https://raw.githubusercontent.com/DaviMoraisdev/DaviMoraisdev/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="Repositórios por linguagem" />
 <img src="https://raw.githubusercontent.com/DaviMoraisdev/DaviMoraisdev/main/profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="Estatísticas do perfil" />
 
