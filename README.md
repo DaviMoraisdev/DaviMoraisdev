@@ -16,7 +16,7 @@ Construindo projetos reais com foco em **APIs**, **arquitetura de software**, **
 
 ---
 
-## Sobre
+## Apresentação
 
 Estudo desenvolvimento back-end pelo tamanho do cenário de aprendizado que a área oferece: como uma API valida uma requisição, como serviços conversam entre si, como um dado persiste com segurança. Aprendo construindo — projetos completos, documentados por fases, com o raciocínio à vista.
 
@@ -24,17 +24,17 @@ Meu objetivo é chegar a uma primeira oportunidade (**estágio ou júnior**) com
 
 ---
 
-## Em Desenvolvimento 
+## Trabalho atual
 
-| | |
+| Frente | Situação |
 |---|---|
-| **E-commerce com microsserviços** | Fase 3 em andamento — `product-service` e `inventory-service` (PostgreSQL/Prisma, MongoDB, paginação, índices, regras de estoque) |
-| **LPI Linux Essentials (010-160)** | Estudo diário + laboratórios em VM Ubuntu Server, com repositório público de anotações e exercícios |
+| **Plataforma de e-commerce com microsserviços** | Fase 3 em andamento — `product-service` e `inventory-service` (PostgreSQL/Prisma, MongoDB, paginação, índices, regras de estoque) |
+| **Certificação LPI Linux Essentials (010-160)** | Estudo diário e laboratórios em VM Ubuntu Server, com repositório público de anotações e exercícios |
 | **Testes e segurança em APIs** | Hardening de JWT, validação de payload, erros padronizados e testes automatizados nos serviços |
 
 ---
 
-## Stack
+## Stack técnica
 
 **Foco atual**
 
@@ -59,7 +59,7 @@ Meu objetivo é chegar a uma primeira oportunidade (**estágio ou júnior**) com
 
 ---
 
-## O que sei fazer hoje
+## Competências
 
 | Área | Na prática |
 |---|---|
@@ -70,55 +70,55 @@ Meu objetivo é chegar a uma primeira oportunidade (**estágio ou júnior**) com
 | **Validação e erros** | Validação de entrada, respostas de erro padronizadas, constraints no banco |
 | **Segurança** | Variáveis de ambiente, proteção de dados sensíveis, hardening de tokens |
 | **Docker** | Ambientes locais com containers e Docker Compose |
-| **Linux** | WSL2 + Ubuntu no dia a dia, VMs de laboratório, SSH, permissões, shell |
-| **Git & fluxo** | Branches, commits descritivos, Pull Requests com revisão antes do merge |
+| **Linux** | WSL2 e Ubuntu no dia a dia, VMs de laboratório, SSH, permissões, shell |
+| **Git e fluxo de trabalho** | Branches, commits descritivos, Pull Requests com revisão antes do merge |
 
 ---
 
 ## Projetos
 
-### Plataforma de E-commerce com Microsserviços · _em andamento_
+### Plataforma de E-commerce com Microsserviços — em andamento
 
-Projeto principal do portfólio: aplicação de e-commerce com serviços independentes, comunicação entre sistemas, mensageria e infraestrutura local com Docker. Desenvolvido por fases documentadas, cada uma com PR revisado antes do merge.
+Projeto principal do portfólio: aplicação de e-commerce com serviços independentes, comunicação entre sistemas, mensageria e infraestrutura local com Docker. Desenvolvido por fases documentadas, cada uma com Pull Request revisado antes do merge.
 
 `Node.js` · `TypeScript` · `Express` · `PostgreSQL` · `MongoDB` · `Redis` · `RabbitMQ` · `Prisma` · `Docker Compose` · `API Gateway (Nginx)` · `JWT`
 
-**Serviços:** `auth` ✅ · `product` 🔨 · `inventory` 🔨 · `user` · `cart` · `order` · `payment` · `notification` · `api-gateway` · `frontend`
+**Serviços:** `auth` (concluído) · `product` (em desenvolvimento) · `inventory` (em desenvolvimento) · `user` · `cart` · `order` · `payment` · `notification` · `api-gateway` · `frontend`
 
-➡️ [DaviMoraisdev/ecommerce-platform](https://github.com/DaviMoraisdev/ecommerce-platform)
+[DaviMoraisdev/ecommerce-platform](https://github.com/DaviMoraisdev/ecommerce-platform)
 
-### 🐧 Linux Essentials Labs · _em andamento_
+### Linux Essentials Labs — em andamento
 
-Laboratórios práticos e anotações da minha preparação para a certificação LPI Linux Essentials: VM própria, exercícios de terminal, permissões, processos e scripts — tudo versionado.
+Laboratórios práticos e anotações da preparação para a certificação LPI Linux Essentials: VM própria, exercícios de terminal, permissões, processos e scripts, tudo versionado.
 
 `Ubuntu Server` · `VirtualBox` · `Bash` · `SSH`
 
-➡️ [DaviMoraisdev/linux-essentials-labs](https://github.com/DaviMoraisdev/linux-essentials-labs)
+[DaviMoraisdev/linux-essentials-labs](https://github.com/DaviMoraisdev/linux-essentials-labs)
 
-### 💼 Portfólio 2026
+### Portfólio 2026
 
 Portfólio pessoal para apresentar perfil, projetos e contato.
 
 `Next.js` · `React` · `TypeScript` · `Vercel`
 
-➡️ [DaviMoraisdev/Portfolio2026](https://github.com/DaviMoraisdev/Portfolio2026)
+[DaviMoraisdev/Portfolio2026](https://github.com/DaviMoraisdev/Portfolio2026)
 
 ---
 
-## 📜 Certificações
+## Certificações
 
 Trilha de estudo com projeto dedicado, laboratórios versionados e cronograma próprio.
 
-| Certificação | Status | Alvo |
+| Certificação | Situação | Alvo |
 |---|---|---|
-| ![LPI](https://img.shields.io/badge/LPI-Linux%20Essentials%20010--160-EFAE00?style=flat-square&logo=linux&logoColor=black) | 🔨 Em preparação | Nov/2026 |
-| ![GitHub](https://img.shields.io/badge/GitHub-Foundations-181717?style=flat-square&logo=github) | 📅 Planejada | 2026/2027 |
-| ![RedHat](https://img.shields.io/badge/Red%20Hat-RHCSA%20EX200-EE0000?style=flat-square&logo=redhat&logoColor=white) | 📅 Planejada | — |
-| ![AWS](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white) | 📅 Planejada | — |
+| LPI Linux Essentials (010-160) | Em preparação | Novembro de 2026 |
+| GitHub Foundations | Planejada | 2026/2027 |
+| Red Hat Certified System Administrator (EX200) | Planejada | A definir |
+| AWS Certified Solutions Architect – Associate | Planejada | A definir |
 
 ---
 
-## 🗺️ Roadmap de aprendizado
+## Roadmap de aprendizado
 
 ```txt
 Concluído
@@ -144,28 +144,28 @@ Próximos passos
 
 ---
 
-## 🔭 Ideias que quero construir
+## Projetos futuros
 
-Projetos futuros para praticar infraestrutura, dados e observabilidade:
+Ideias para praticar infraestrutura, dados e observabilidade:
 
 - **Cloud Resource Manager** — gerenciamento e monitoramento de servidores (status, logs, alertas, painel administrativo).
 - **InfraSight** — dashboard de containers com métricas de CPU, memória e rede em tempo real.
-- **CyberShield** — plataforma de monitoramento e detecção de ameaças (segurança + dados).
+- **CyberShield** — plataforma de monitoramento e detecção de ameaças, unindo segurança e dados.
 - **Detector de phishing em e-mails** — classificação de mensagens com machine learning.
 
 ---
 
-## ⚙️ Como trabalho
+## Método de trabalho
 
-Meus projetos mostram não só o código, mas o **raciocínio**: por que aquela arquitetura, como rodar localmente, quais problemas apareceram e como foram resolvidos. O fluxo é sempre o mesmo — **planejar → documentar → implementar por fases → revisar em PR → testar**.
+Meus projetos mostram não só o código, mas o **raciocínio**: por que aquela arquitetura, como rodar localmente, quais problemas apareceram e como foram resolvidos. O fluxo é sempre o mesmo — **planejar, documentar, implementar por fases, revisar em Pull Request e testar**.
 
 ---
 
-## 📊 Atividade no GitHub
+## Atividade no GitHub
 
 <div align="center">
 
-<!-- Snake gerada diariamente pelo workflow .github/workflows/snake.yml -->
+<!-- Animação gerada diariamente pelo workflow .github/workflows/snake.yml -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaviMoraisdev/DaviMoraisdev/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DaviMoraisdev/DaviMoraisdev/output/github-snake.svg" />
@@ -190,7 +190,7 @@ Meus projetos mostram não só o código, mas o **raciocínio**: por que aquela 
 
 **Aberto a oportunidades de estágio e vagas júnior em back-end.**
 
-[![LinkedIn](https://img.shields.io/badge/Vamos%20conversar-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-morais-b558b2261)
-[![GitHub](https://img.shields.io/badge/Ver%20projetos-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/DaviMoraisdev?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/Contato-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-morais-b558b2261)
+[![GitHub](https://img.shields.io/badge/Repositórios-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/DaviMoraisdev?tab=repositories)
 
 </div>
