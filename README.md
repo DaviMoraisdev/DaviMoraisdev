@@ -24,17 +24,17 @@ Meu objetivo é chegar a uma primeira oportunidade (**estágio ou júnior**) com
 
 ---
 
-## 🎯 Em foco agora
+## Em Desenvolvimento 
 
 | | |
 |---|---|
-| 🛒 **E-commerce com microsserviços** | Fase 3 em andamento — `product-service` e `inventory-service` (PostgreSQL/Prisma, MongoDB, paginação, índices, regras de estoque) |
-| 🐧 **LPI Linux Essentials (010-160)** | Estudo diário + laboratórios em VM Ubuntu Server, com repositório público de anotações e exercícios |
-| 🧪 **Testes e segurança em APIs** | Hardening de JWT, validação de payload, erros padronizados e testes automatizados nos serviços |
+| **E-commerce com microsserviços** | Fase 3 em andamento — `product-service` e `inventory-service` (PostgreSQL/Prisma, MongoDB, paginação, índices, regras de estoque) |
+| **LPI Linux Essentials (010-160)** | Estudo diário + laboratórios em VM Ubuntu Server, com repositório público de anotações e exercícios |
+| **Testes e segurança em APIs** | Hardening de JWT, validação de payload, erros padronizados e testes automatizados nos serviços |
 
 ---
 
-## 🧰 Stack
+## Stack
 
 **Foco atual**
 
@@ -59,7 +59,7 @@ Meu objetivo é chegar a uma primeira oportunidade (**estágio ou júnior**) com
 
 ---
 
-## 💡 O que sei fazer hoje
+## O que sei fazer hoje
 
 | Área | Na prática |
 |---|---|
@@ -75,9 +75,9 @@ Meu objetivo é chegar a uma primeira oportunidade (**estágio ou júnior**) com
 
 ---
 
-## 🚀 Projetos
+## Projetos
 
-### 🛒 Plataforma de E-commerce com Microsserviços · _em andamento_
+### Plataforma de E-commerce com Microsserviços · _em andamento_
 
 Projeto principal do portfólio: aplicação de e-commerce com serviços independentes, comunicação entre sistemas, mensageria e infraestrutura local com Docker. Desenvolvido por fases documentadas, cada uma com PR revisado antes do merge.
 
