@@ -1,0 +1,27 @@
+name: Gerar cards de estatísticas
+
+on:
+  schedule:
+    - cron: "0 4 * * *"   # todo dia às 04:00 UTC
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Gerar cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          UTC_OFFSET: -3        # horário de Brasília
+          BRANCH_NAME: main     # branch onde os SVGs serão commitados
