@@ -135,11 +135,12 @@ Em andamento
   [~] Autenticação e segurança em APIs
   [~] Testes automatizados
   [~] Linux (certificação Linux Essentials)
+  [~] CI/CD com GitHub Actions
 
 Próximos passos
-  [ ] CI/CD com GitHub Actions
   [ ] Observabilidade e monitoramento
   [ ] Deploy em cloud (AWS)
+  [ ] Certificações Profissionais 
 ```
 
 ---
