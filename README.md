@@ -71,6 +71,16 @@ A trilha parte dos fundamentos de Linux, consolida a administração de sistemas
 | ![Linux Foundation LFCS](https://img.shields.io/badge/Linux%20Foundation-LFCS-3D444D?style=flat-square&labelColor=24292F&logo=linuxfoundation&logoColor=white) | Administração de sistemas Linux | ![Opcional](https://img.shields.io/badge/Opcional-6E7781?style=flat-square) |
 | ![Mirantis Docker Certified Associate](https://img.shields.io/badge/Mirantis-Docker%20Certified%20Associate-3D444D?style=flat-square&labelColor=24292F&logo=docker&logoColor=white) | Containers | ![Opcional](https://img.shields.io/badge/Opcional-6E7781?style=flat-square) |
 
+### Objetivos de longo prazo
+
+Certificações que exigem proficiência técnica e experiência prática acumulada. Serão buscadas após a consolidação da trilha principal e de vivência profissional nas respectivas áreas.
+
+| Certificação | Área | Pré-requisito prático | Situação |
+|---|---|---|---|
+| ![AWS Machine Learning Engineer Associate](https://img.shields.io/badge/AWS-Machine%20Learning%20Engineer%20Associate-3D444D?style=flat-square&labelColor=24292F) | Machine learning em cloud | Experiência com serviços de dados e ML na AWS | ![Longo prazo](https://img.shields.io/badge/Longo%20prazo-57606A?style=flat-square) |
+| ![HashiCorp Terraform Associate](https://img.shields.io/badge/HashiCorp-Terraform%20Associate-3D444D?style=flat-square&labelColor=24292F&logo=terraform&logoColor=white) | Infraestrutura como código | Provisionamento de infraestrutura em projetos reais | ![Longo prazo](https://img.shields.io/badge/Longo%20prazo-57606A?style=flat-square) |
+| ![CNCF CKA Certified Kubernetes Administrator](https://img.shields.io/badge/CNCF-CKA%20Certified%20Kubernetes%20Administrator-3D444D?style=flat-square&labelColor=24292F&logo=kubernetes&logoColor=white) | Orquestração de containers | Administração de clusters Kubernetes | ![Longo prazo](https://img.shields.io/badge/Longo%20prazo-57606A?style=flat-square) |
+
 ---
 
 ## Stack Técnica
@@ -188,7 +198,12 @@ Sistemas e Infraestrutura
   [ ] Fundamentos de cloud e IA na AWS
   [ ] Desenvolvimento de aplicações em cloud (AWS Developer Associate)
 
-Legenda: [x] concluído · [~] em andamento · [ ] próximo passo
+Horizonte de longo prazo
+  [ ] Machine learning em cloud (AWS ML Engineer Associate)
+  [ ] Infraestrutura como código (Terraform Associate)
+  [ ] Orquestração de containers com Kubernetes (CKA)
+
+Legenda: [x] concluído · [~] em andamento · [ ] planejado
 ```
 
 ---
