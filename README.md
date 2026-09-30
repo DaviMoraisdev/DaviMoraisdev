@@ -2,9 +2,9 @@
 
 # Davi Morais Silva
 
-**Desenvolvedor Back-End em formação** · Estudante de Análise e Desenvolvimento de Sistemas (3º período)
+**Desenvolvimento Back-End · Sistemas Linux e Infraestrutura**
 
-Construindo projetos reais com foco em **APIs**, **arquitetura de software**, **bancos de dados**, **Docker** e **Linux**.
+Estudante de Análise e Desenvolvimento de Sistemas (3º período), com formação conduzida em duas frentes complementares: construção de APIs e serviços, e administração de sistemas validada por certificações da indústria.
 
 <br>
 
@@ -16,41 +16,76 @@ Construindo projetos reais com foco em **APIs**, **arquitetura de software**, **
 
 ---
 
-## Apresentação
+## Sobre
 
-Estudo desenvolvimento back-end pelo tamanho do cenário de aprendizado que a área oferece: como uma API valida uma requisição, como serviços conversam entre si, como um dado persiste com segurança. Aprendo construindo — projetos completos, documentados por fases, com o raciocínio à vista.
+Meu interesse em tecnologia está no que acontece por trás da interface: como uma API valida e processa uma requisição, como serviços se comunicam, como os dados persistem com segurança e como o sistema operacional e a infraestrutura sustentam tudo isso em execução.
 
-Meu objetivo é chegar a uma primeira oportunidade (**estágio ou júnior**) com base sólida em back-end, banco de dados, infraestrutura e boas práticas de engenharia, para crescer dentro de um time real.
+Por isso, desenvolvo duas competências em paralelo. No **desenvolvimento back-end**, construo projetos completos, organizados em fases e documentados com as decisões técnicas à vista. Em **sistemas e infraestrutura**, sigo uma trilha estruturada de certificações, começando por Linux e avançando para administração de servidores, cloud e orquestração de containers, sempre acompanhada de laboratórios práticos versionados.
+
+Meu objetivo é conquistar uma primeira oportunidade como **estagiário ou desenvolvedor júnior**, contribuindo em um time real com base sólida em back-end, banco de dados, Linux e boas práticas de engenharia.
 
 ---
 
-## Trabalho atual
+## Áreas de Atuação
 
-| Frente | Situação |
+| Desenvolvimento Back-End | Sistemas e Infraestrutura |
 |---|---|
-| **Plataforma de e-commerce com microsserviços** | Fase 3 em andamento — `product-service` e `inventory-service` (PostgreSQL/Prisma, MongoDB, paginação, índices, regras de estoque) |
-| **Certificação LPI Linux Essentials (010-160)** | Estudo diário e laboratórios em VM Ubuntu Server, com repositório público de anotações e exercícios |
-| **Testes e segurança em APIs** | Hardening de JWT, validação de payload, erros padronizados e testes automatizados nos serviços |
+| APIs REST com Node.js, Express e TypeScript | Linux no uso diário (Ubuntu, WSL2 e Ubuntu Server) |
+| Arquitetura em camadas e microsserviços | Administração via terminal: permissões, processos, SSH e shell |
+| Modelagem de dados relacional e NoSQL | Virtualização e laboratórios com VirtualBox |
+| Autenticação, autorização e segurança de APIs | Containers com Docker e Docker Compose |
+| Testes automatizados e revisão de código | Automação de fluxo com GitHub Actions |
 
 ---
 
-## Stack técnica
+## Frentes Atuais
 
-**Foco atual**
+| Frente | Área | Situação |
+|---|---|---|
+| **Plataforma de e-commerce com microsserviços** | Back-End | Fase 3 em andamento: `product-service` e `inventory-service` (PostgreSQL/Prisma, MongoDB, paginação, índices e regras de estoque) |
+| **Certificação LPI Linux Essentials (010-160)** | Sistemas | Estudo diário com cronograma próprio e laboratórios em VM Ubuntu Server, com repositório público de anotações e exercícios |
+| **Testes e segurança em APIs** | Back-End | Hardening de JWT, validação de payload, erros padronizados e testes automatizados nos serviços |
+
+---
+
+## Trilha de Certificações
+
+A trilha segue a progressão natural da área de sistemas: fundamentos de Linux, administração de servidores, arquitetura em cloud e orquestração de containers. Cada etapa conta com estudo planejado e laboratórios práticos publicados no GitHub.
+
+| Etapa | Certificação | Área | Situação | Previsão |
+|:---:|---|---|---|---|
+| 1 | ![LPI Linux Essentials](https://img.shields.io/badge/LPI-Linux%20Essentials%20010--160-EFAE00?style=for-the-badge&logo=linux&logoColor=black) | Fundamentos de Linux | ![Em preparação](https://img.shields.io/badge/Em%20preparação-2563EB?style=for-the-badge) | Novembro de 2026 |
+| 2 | ![GitHub Foundations](https://img.shields.io/badge/GitHub-Foundations-181717?style=for-the-badge&logo=github&logoColor=white) | Versionamento e colaboração | ![Planejada](https://img.shields.io/badge/Planejada-4B5563?style=for-the-badge) | 2026 / 2027 |
+| 3 | ![RHCSA](https://img.shields.io/badge/Red%20Hat-RHCSA%20EX200-EE0000?style=for-the-badge&logo=redhat&logoColor=white) | Administração de sistemas Linux | ![Planejada](https://img.shields.io/badge/Planejada-4B5563?style=for-the-badge) | A definir |
+| 4 | ![AWS SAA](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white) | Arquitetura em cloud | ![Planejada](https://img.shields.io/badge/Planejada-4B5563?style=for-the-badge) | A definir |
+| 5 | ![CKA](https://img.shields.io/badge/CNCF-Kubernetes%20Administrator%20(CKA)-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) | Orquestração de containers | ![Planejada](https://img.shields.io/badge/Planejada-4B5563?style=for-the-badge) | Longo prazo |
+
+---
+
+## Stack Técnica
+
+**Desenvolvimento Back-End**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Sistemas e Infraestrutura**
+
 ![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu%20Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 **Também trabalho com**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -61,17 +96,26 @@ Meu objetivo é chegar a uma primeira oportunidade (**estágio ou júnior**) com
 
 ## Competências
 
+### Desenvolvimento Back-End
+
 | Área | Na prática |
 |---|---|
-| **APIs REST** | Rotas, controllers, services e middlewares em Node/Express com TypeScript |
-| **Arquitetura** | Separação por camadas, código modular por domínio, serviços independentes |
+| **APIs REST** | Rotas, controllers, services e middlewares em Node.js/Express com TypeScript |
+| **Arquitetura** | Separação por camadas, código modular por domínio e serviços independentes |
 | **Banco de dados** | Modelagem relacional e NoSQL, consultas SQL, Prisma, índices e paginação |
-| **Autenticação** | Login, hash de senha, JWT, controle de acesso por papel |
-| **Validação e erros** | Validação de entrada, respostas de erro padronizadas, constraints no banco |
-| **Segurança** | Variáveis de ambiente, proteção de dados sensíveis, hardening de tokens |
-| **Docker** | Ambientes locais com containers e Docker Compose |
-| **Linux** | WSL2 e Ubuntu no dia a dia, VMs de laboratório, SSH, permissões, shell |
-| **Git e fluxo de trabalho** | Branches, commits descritivos, Pull Requests com revisão antes do merge |
+| **Autenticação** | Login, hash de senha, JWT e controle de acesso por papel |
+| **Validação e erros** | Validação de entrada, respostas de erro padronizadas e constraints no banco |
+| **Segurança** | Variáveis de ambiente, proteção de dados sensíveis e hardening de tokens |
+
+### Sistemas e Infraestrutura
+
+| Área | Na prática |
+|---|---|
+| **Linux** | WSL2 e Ubuntu no dia a dia, hierarquia de diretórios (FHS), permissões, processos e shell |
+| **Servidores e acesso remoto** | VM Ubuntu Server com LVM, acesso via SSH e snapshots para laboratórios reproduzíveis |
+| **Containers** | Ambientes locais com Docker e Docker Compose, isolando serviços e bancos de dados |
+| **Automação** | Workflows de GitHub Actions e scripts em Bash |
+| **Git e fluxo de trabalho** | Branches, commits descritivos e Pull Requests com revisão antes do merge |
 
 ---
 
@@ -79,7 +123,7 @@ Meu objetivo é chegar a uma primeira oportunidade (**estágio ou júnior**) com
 
 ### Plataforma de E-commerce com Microsserviços — em andamento
 
-Projeto principal do portfólio: aplicação de e-commerce com serviços independentes, comunicação entre sistemas, mensageria e infraestrutura local com Docker. Desenvolvido por fases documentadas, cada uma com Pull Request revisado antes do merge.
+Projeto principal do portfólio: aplicação de e-commerce com serviços independentes, comunicação entre sistemas, mensageria e infraestrutura local com Docker. Desenvolvido em fases documentadas, cada uma entregue por Pull Request revisado antes do merge.
 
 `Node.js` · `TypeScript` · `Express` · `PostgreSQL` · `MongoDB` · `Redis` · `RabbitMQ` · `Prisma` · `Docker Compose` · `API Gateway (Nginx)` · `JWT`
 
@@ -89,7 +133,7 @@ Projeto principal do portfólio: aplicação de e-commerce com serviços indepen
 
 ### Linux Essentials Labs — em andamento
 
-Laboratórios práticos e anotações da preparação para a certificação LPI Linux Essentials: VM própria, exercícios de terminal, permissões, processos e scripts, tudo versionado.
+Repositório de apoio à trilha de certificações em sistemas. Reúne laboratórios práticos e anotações da preparação para o LPI Linux Essentials, executados em VM própria: terminal, hierarquia de diretórios, permissões, processos e scripts, tudo versionado.
 
 `Ubuntu Server` · `VirtualBox` · `Bash` · `SSH`
 
@@ -97,7 +141,7 @@ Laboratórios práticos e anotações da preparação para a certificação LPI 
 
 ### Portfólio 2026
 
-Portfólio pessoal para apresentar perfil, projetos e contato.
+Portfólio pessoal para apresentação de perfil, projetos e contato.
 
 `Next.js` · `React` · `TypeScript` · `Vercel`
 
@@ -105,60 +149,56 @@ Portfólio pessoal para apresentar perfil, projetos e contato.
 
 ---
 
-## Certificações
-
-Trilha de estudo com projeto dedicado, laboratórios versionados e cronograma próprio.
-
-| Certificação | Situação | Alvo |
-|---|---|---|
-| ![LPI Linux Essentials](https://img.shields.io/badge/LPI-Linux%20Essentials%20010--160-EFAE00?style=for-the-badge&logo=linux&logoColor=black) | ![Em preparação](https://img.shields.io/badge/Em%20preparação-2563EB?style=for-the-badge) | Novembro de 2026 |
-| ![GitHub Foundations](https://img.shields.io/badge/GitHub-Foundations-181717?style=for-the-badge&logo=github&logoColor=white) | ![Planejada](https://img.shields.io/badge/Planejada-4B5563?style=for-the-badge) | 2026 / 2027 |
-| ![RHCSA](https://img.shields.io/badge/Red%20Hat-RHCSA%20EX200-EE0000?style=for-the-badge&logo=redhat&logoColor=white) | ![Planejada](https://img.shields.io/badge/Planejada-4B5563?style=for-the-badge) | A definir |
-| ![AWS SAA](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white) | ![Planejada](https://img.shields.io/badge/Planejada-4B5563?style=for-the-badge) | A definir |
-
----
-
-## Roadmap de aprendizado
+## Roadmap de Aprendizado
 
 ```txt
-Concluído
+Fundamentos
   [x] Fundamentos de programação
   [x] Git e GitHub
   [x] HTML, CSS e JavaScript
   [x] PHP com banco de dados
+
+Desenvolvimento Back-End
   [x] Node.js e APIs REST
   [x] TypeScript aplicado a projetos
-  [x] Docker e Docker Compose
-
-Em andamento
   [~] Microsserviços e comunicação entre serviços
   [~] Autenticação e segurança em APIs
   [~] Testes automatizados
-  [~] Linux (certificação Linux Essentials)
-  [~] CI/CD com GitHub Actions
-
-Próximos passos
+  [ ] Mensageria com RabbitMQ
   [ ] Observabilidade e monitoramento
-  [ ] Deploy em cloud (AWS)
-  [ ] Certificações Profissionais 
+
+Sistemas e Infraestrutura
+  [x] Docker e Docker Compose
+  [x] Ambiente Linux com WSL2 e VM de laboratório
+  [~] Linux Essentials (LPI 010-160)
+  [~] CI/CD com GitHub Actions
+  [ ] Administração de sistemas Red Hat (RHCSA)
+  [ ] Arquitetura e deploy em cloud (AWS)
+  [ ] Orquestração de containers com Kubernetes (CKA)
+
+Legenda: [x] concluído · [~] em andamento · [ ] próximo passo
 ```
 
 ---
 
-## Projetos futuros
+## Projetos Futuros
 
-Ideias para praticar infraestrutura, dados e observabilidade:
+Iniciativas planejadas para aprofundar infraestrutura, dados e observabilidade:
 
-- **Cloud Resource Manager** — gerenciamento e monitoramento de servidores (status, logs, alertas, painel administrativo).
-- **InfraSight** — dashboard de containers com métricas de CPU, memória e rede em tempo real.
-- **CyberShield** — plataforma de monitoramento e detecção de ameaças, unindo segurança e dados.
-- **Detector de phishing em e-mails** — classificação de mensagens com machine learning.
+| Projeto | Área | Proposta |
+|---|---|---|
+| **Cloud Resource Manager** | Infraestrutura | Gerenciamento e monitoramento de servidores, com status, logs, alertas e painel administrativo |
+| **InfraSight** | Observabilidade | Dashboard de containers com métricas de CPU, memória e rede em tempo real |
+| **CyberShield** | Segurança | Plataforma de monitoramento e detecção de ameaças, unindo segurança e dados |
+| **Detector de phishing em e-mails** | Dados | Classificação de mensagens com machine learning |
 
 ---
 
-## Método de trabalho
+## Método de Trabalho
 
-Meus projetos mostram não só o código, mas o **raciocínio**: por que aquela arquitetura, como rodar localmente, quais problemas apareceram e como foram resolvidos. O fluxo é sempre o mesmo — **planejar, documentar, implementar por fases, revisar em Pull Request e testar**.
+Meus projetos registram não apenas o código, mas o **raciocínio** por trás dele: a justificativa de cada decisão de arquitetura, como executar o ambiente localmente, quais problemas surgiram e como foram resolvidos.
+
+No desenvolvimento, o fluxo é constante: **planejar, documentar, implementar por fases, revisar em Pull Request e testar**. Na trilha de sistemas, aplico o mesmo princípio: **estudo com cronograma definido, prática em laboratório e registro versionado** de cada etapa.
 
 ---
 
@@ -197,7 +237,7 @@ Meus projetos mostram não só o código, mas o **raciocínio**: por que aquela 
 
 <div align="center">
 
-**Aberto a oportunidades de estágio e vagas júnior em back-end.**
+**Aberto a oportunidades de estágio e vagas júnior em desenvolvimento back-end e infraestrutura.**
 
 [![LinkedIn](https://img.shields.io/badge/Contato-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-morais-b558b2261)
 [![GitHub](https://img.shields.io/badge/Repositórios-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/DaviMoraisdev?tab=repositories)
