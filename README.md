@@ -54,22 +54,22 @@ A trilha parte dos fundamentos de Linux, consolida a administração de sistemas
 
 ### Trilha principal
 
-| Etapa | Certificação | Emissor | Área | Situação | Previsão |
-|:---:|---|---|---|---|---|
-| 1 | Linux Essentials (010-160) | LPI | Fundamentos de Linux | **Em preparação** | Novembro de 2026 |
-| 2 | GitHub Foundations | GitHub | Versionamento e colaboração | Planejada | 2026 / 2027 |
-| 3 | RHCSA (EX200) | Red Hat | Administração de sistemas Red Hat | Planejada | A definir |
-| 4 | LPIC-1 (provas 101 e 102) | LPI | Administração de sistemas Linux | Planejada | A definir |
-| 5 | AWS Certified Cloud Practitioner | Amazon Web Services | Fundamentos de cloud | Planejada | A definir |
-| 6 | AWS Certified AI Practitioner | Amazon Web Services | Inteligência artificial em cloud | Planejada | A definir |
-| 7 | AWS Certified Developer – Associate | Amazon Web Services | Desenvolvimento em cloud | Planejada | A definir |
+| Etapa | Certificação | Área | Situação | Previsão |
+|:---:|---|---|---|---|
+| 1 | ![LPI Linux Essentials 010-160](https://img.shields.io/badge/LPI-Linux%20Essentials%20010--160-3D444D?style=flat-square&labelColor=24292F&logo=linux&logoColor=white) | Fundamentos de Linux | ![Em preparação](https://img.shields.io/badge/Em%20preparação-1F6FEB?style=flat-square) | Novembro de 2026 |
+| 2 | ![GitHub Foundations](https://img.shields.io/badge/GitHub-Foundations-3D444D?style=flat-square&labelColor=24292F&logo=github&logoColor=white) | Versionamento e colaboração | ![Planejada](https://img.shields.io/badge/Planejada-6E7781?style=flat-square) | 2026 / 2027 |
+| 3 | ![Red Hat RHCSA EX200](https://img.shields.io/badge/Red%20Hat-RHCSA%20EX200-3D444D?style=flat-square&labelColor=24292F&logo=redhat&logoColor=white) | Administração de sistemas Red Hat | ![Planejada](https://img.shields.io/badge/Planejada-6E7781?style=flat-square) | A definir |
+| 4 | ![LPI LPIC-1 101 e 102](https://img.shields.io/badge/LPI-LPIC--1%20101%20e%20102-3D444D?style=flat-square&labelColor=24292F&logo=linux&logoColor=white) | Administração de sistemas Linux | ![Planejada](https://img.shields.io/badge/Planejada-6E7781?style=flat-square) | A definir |
+| 5 | ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-3D444D?style=flat-square&labelColor=24292F) | Fundamentos de cloud | ![Planejada](https://img.shields.io/badge/Planejada-6E7781?style=flat-square) | A definir |
+| 6 | ![AWS AI Practitioner](https://img.shields.io/badge/AWS-AI%20Practitioner-3D444D?style=flat-square&labelColor=24292F) | Inteligência artificial em cloud | ![Planejada](https://img.shields.io/badge/Planejada-6E7781?style=flat-square) | A definir |
+| 7 | ![AWS Developer Associate](https://img.shields.io/badge/AWS-Developer%20Associate-3D444D?style=flat-square&labelColor=24292F) | Desenvolvimento em cloud | ![Planejada](https://img.shields.io/badge/Planejada-6E7781?style=flat-square) | A definir |
 
 ### Certificações complementares (opcionais)
 
-| Certificação | Emissor | Área |
+| Certificação | Área | Situação |
 |---|---|---|
-| LFCS — Linux Foundation Certified System Administrator | The Linux Foundation | Administração de sistemas Linux |
-| Docker Certified Associate (DCA) | Mirantis | Containers |
+| ![Linux Foundation LFCS](https://img.shields.io/badge/Linux%20Foundation-LFCS-3D444D?style=flat-square&labelColor=24292F&logo=linuxfoundation&logoColor=white) | Administração de sistemas Linux | ![Opcional](https://img.shields.io/badge/Opcional-6E7781?style=flat-square) |
+| ![Mirantis Docker Certified Associate](https://img.shields.io/badge/Mirantis-Docker%20Certified%20Associate-3D444D?style=flat-square&labelColor=24292F&logo=docker&logoColor=white) | Containers | ![Opcional](https://img.shields.io/badge/Opcional-6E7781?style=flat-square) |
 
 ---
 
