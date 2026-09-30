@@ -8,9 +8,9 @@ Estudante de Análise e Desenvolvimento de Sistemas (3º período), com formaç�
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-DaviMoraisdev-181717?style=for-the-badge&logo=github)](https://github.com/DaviMoraisdev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Davi%20Morais-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-morais-b558b2261)
-[![Portfolio](https://img.shields.io/badge/Portfólio-2026-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/DaviMoraisdev/Portfolio2026)
+[![GitHub](https://img.shields.io/badge/GitHub-DaviMoraisdev-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/DaviMoraisdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Davi%20Morais-24292F?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-morais-b558b2261)
+[![Portfólio](https://img.shields.io/badge/Portfólio-2026-24292F?style=flat-square&logo=vercel&logoColor=white)](https://github.com/DaviMoraisdev/Portfolio2026)
 
 </div>
 
@@ -20,7 +20,7 @@ Estudante de Análise e Desenvolvimento de Sistemas (3º período), com formaç�
 
 Meu interesse em tecnologia está no que acontece por trás da interface: como uma API valida e processa uma requisição, como serviços se comunicam, como os dados persistem com segurança e como o sistema operacional e a infraestrutura sustentam tudo isso em execução.
 
-Por isso, desenvolvo duas competências em paralelo. No **desenvolvimento back-end**, construo projetos completos, organizados em fases e documentados com as decisões técnicas à vista. Em **sistemas e infraestrutura**, sigo uma trilha estruturada de certificações, começando por Linux e avançando para administração de servidores, cloud e orquestração de containers, sempre acompanhada de laboratórios práticos versionados.
+Por isso, desenvolvo duas competências em paralelo. No **desenvolvimento back-end**, construo projetos completos, organizados em fases e documentados com as decisões técnicas à vista. Em **sistemas e infraestrutura**, sigo uma trilha estruturada de certificações, começando pelos fundamentos de Linux, passando pela administração de sistemas Red Hat e LPI e avançando para cloud na AWS, sempre acompanhada de laboratórios práticos versionados.
 
 Meu objetivo é conquistar uma primeira oportunidade como **estagiário ou desenvolvedor júnior**, contribuindo em um time real com base sólida em back-end, banco de dados, Linux e boas práticas de engenharia.
 
@@ -50,15 +50,26 @@ Meu objetivo é conquistar uma primeira oportunidade como **estagiário ou desen
 
 ## Trilha de Certificações
 
-A trilha segue a progressão natural da área de sistemas: fundamentos de Linux, administração de servidores, arquitetura em cloud e orquestração de containers. Cada etapa conta com estudo planejado e laboratórios práticos publicados no GitHub.
+A trilha parte dos fundamentos de Linux, consolida a administração de sistemas com as certificações Red Hat e LPI e avança para cloud na AWS, culminando no AWS Developer Associate, que conecta a formação em infraestrutura ao desenvolvimento back-end. Cada etapa conta com estudo planejado e laboratórios práticos publicados no GitHub.
 
-| Etapa | Certificação | Área | Situação | Previsão |
-|:---:|---|---|---|---|
-| 1 | ![LPI Linux Essentials](https://img.shields.io/badge/LPI-Linux%20Essentials%20010--160-EFAE00?style=for-the-badge&logo=linux&logoColor=black) | Fundamentos de Linux | ![Em preparação](https://img.shields.io/badge/Em%20preparação-2563EB?style=for-the-badge) | Novembro de 2026 |
-| 2 | ![GitHub Foundations](https://img.shields.io/badge/GitHub-Foundations-181717?style=for-the-badge&logo=github&logoColor=white) | Versionamento e colaboração | ![Planejada](https://img.shields.io/badge/Planejada-4B5563?style=for-the-badge) | 2026 / 2027 |
-| 3 | ![RHCSA](https://img.shields.io/badge/Red%20Hat-RHCSA%20EX200-EE0000?style=for-the-badge&logo=redhat&logoColor=white) | Administração de sistemas Linux | ![Planejada](https://img.shields.io/badge/Planejada-4B5563?style=for-the-badge) | A definir |
-| 4 | ![AWS SAA](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white) | Arquitetura em cloud | ![Planejada](https://img.shields.io/badge/Planejada-4B5563?style=for-the-badge) | A definir |
-| 5 | ![CKA](https://img.shields.io/badge/CNCF-Kubernetes%20Administrator%20(CKA)-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) | Orquestração de containers | ![Planejada](https://img.shields.io/badge/Planejada-4B5563?style=for-the-badge) | Longo prazo |
+### Trilha principal
+
+| Etapa | Certificação | Emissor | Área | Situação | Previsão |
+|:---:|---|---|---|---|---|
+| 1 | Linux Essentials (010-160) | LPI | Fundamentos de Linux | **Em preparação** | Novembro de 2026 |
+| 2 | GitHub Foundations | GitHub | Versionamento e colaboração | Planejada | 2026 / 2027 |
+| 3 | RHCSA (EX200) | Red Hat | Administração de sistemas Red Hat | Planejada | A definir |
+| 4 | LPIC-1 (provas 101 e 102) | LPI | Administração de sistemas Linux | Planejada | A definir |
+| 5 | AWS Certified Cloud Practitioner | Amazon Web Services | Fundamentos de cloud | Planejada | A definir |
+| 6 | AWS Certified AI Practitioner | Amazon Web Services | Inteligência artificial em cloud | Planejada | A definir |
+| 7 | AWS Certified Developer – Associate | Amazon Web Services | Desenvolvimento em cloud | Planejada | A definir |
+
+### Certificações complementares (opcionais)
+
+| Certificação | Emissor | Área |
+|---|---|---|
+| LFCS — Linux Foundation Certified System Administrator | The Linux Foundation | Administração de sistemas Linux |
+| Docker Certified Associate (DCA) | Mirantis | Containers |
 
 ---
 
@@ -66,29 +77,29 @@ A trilha segue a progressão natural da área de sistemas: fundamentos de Linux,
 
 **Desenvolvimento Back-End**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-24292F?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-24292F?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-24292F?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-24292F?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-24292F?style=flat-square&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-24292F?style=flat-square&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-24292F?style=flat-square&logo=redis&logoColor=white)
 
 **Sistemas e Infraestrutura**
 
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu%20Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-24292F?style=flat-square&logo=linux&logoColor=white)
+![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server-24292F?style=flat-square&logo=ubuntu&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-24292F?style=flat-square&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-24292F?style=flat-square&logo=docker&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-24292F?style=flat-square&logo=virtualbox&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-24292F?style=flat-square&logo=githubactions&logoColor=white)
 
 **Também trabalho com**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-24292F?style=flat-square&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-24292F?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-24292F?style=flat-square&logo=next.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-24292F?style=flat-square&logo=git&logoColor=white)
 
 **Já tive contato** · PHP · MySQL · RabbitMQ · Nginx · Python · C
 
@@ -170,11 +181,12 @@ Desenvolvimento Back-End
 Sistemas e Infraestrutura
   [x] Docker e Docker Compose
   [x] Ambiente Linux com WSL2 e VM de laboratório
-  [~] Linux Essentials (LPI 010-160)
+  [~] Fundamentos de Linux (LPI Linux Essentials)
   [~] CI/CD com GitHub Actions
   [ ] Administração de sistemas Red Hat (RHCSA)
-  [ ] Arquitetura e deploy em cloud (AWS)
-  [ ] Orquestração de containers com Kubernetes (CKA)
+  [ ] Administração de sistemas Linux (LPIC-1)
+  [ ] Fundamentos de cloud e IA na AWS
+  [ ] Desenvolvimento de aplicações em cloud (AWS Developer Associate)
 
 Legenda: [x] concluído · [~] em andamento · [ ] próximo passo
 ```
@@ -239,7 +251,7 @@ No desenvolvimento, o fluxo é constante: **planejar, documentar, implementar po
 
 **Aberto a oportunidades de estágio e vagas júnior em desenvolvimento back-end e infraestrutura.**
 
-[![LinkedIn](https://img.shields.io/badge/Contato-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-morais-b558b2261)
-[![GitHub](https://img.shields.io/badge/Repositórios-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/DaviMoraisdev?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/Contato-LinkedIn-24292F?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-morais-b558b2261)
+[![GitHub](https://img.shields.io/badge/Repositórios-GitHub-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/DaviMoraisdev?tab=repositories)
 
 </div>
