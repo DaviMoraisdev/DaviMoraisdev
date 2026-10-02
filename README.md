@@ -50,7 +50,7 @@ Meu objetivo é conquistar uma primeira oportunidade como **estagiário ou desen
 
 ## Trilha de Certificações
 
-A trilha parte dos fundamentos de Linux, consolida a administração de sistemas com as certificações Red Hat e LPI e avança para cloud na AWS, culminando no AWS Developer Associate, que conecta a formação em infraestrutura ao desenvolvimento back-end. Cada etapa conta com estudo planejado e laboratórios práticos publicados no GitHub.
+A trilha parte dos fundamentos de Linux, consolida a administração e a automação de sistemas com as certificações Red Hat e LPI e avança para cloud na AWS, onde o AWS Developer Associate e o Machine Learning Engineer Associate conectam a formação em infraestrutura ao desenvolvimento de aplicações. Cada etapa conta com estudo planejado e laboratórios práticos publicados no GitHub.
 
 ### Trilha principal
 
@@ -59,10 +59,12 @@ A trilha parte dos fundamentos de Linux, consolida a administração de sistemas
 | 1 | ![LPI Linux Essentials 010-160](https://img.shields.io/badge/LPI-Linux%20Essentials%20010--160-3D444D?style=flat-square&labelColor=24292F&logo=linux&logoColor=white) | Fundamentos de Linux | ![Em preparação](https://img.shields.io/badge/Em%20preparação-1F6FEB?style=flat-square) | Novembro de 2026 |
 | 2 | ![GitHub Foundations](https://img.shields.io/badge/GitHub-Foundations-3D444D?style=flat-square&labelColor=24292F&logo=github&logoColor=white) | Versionamento e colaboração | ![Planejada](https://img.shields.io/badge/Planejada-6E7781?style=flat-square) | 2026 / 2027 |
 | 3 | ![Red Hat RHCSA EX200](https://img.shields.io/badge/Red%20Hat-RHCSA%20EX200-3D444D?style=flat-square&labelColor=24292F&logo=redhat&logoColor=white) | Administração de sistemas Red Hat | ![Planejada](https://img.shields.io/badge/Planejada-6E7781?style=flat-square) | A definir |
-| 4 | ![LPI LPIC-1 101 e 102](https://img.shields.io/badge/LPI-LPIC--1%20101%20e%20102-3D444D?style=flat-square&labelColor=24292F&logo=linux&logoColor=white) | Administração de sistemas Linux | ![Planejada](https://img.shields.io/badge/Planejada-6E7781?style=flat-square) | A definir |
-| 5 | ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-3D444D?style=flat-square&labelColor=24292F) | Fundamentos de cloud | ![Planejada](https://img.shields.io/badge/Planejada-6E7781?style=flat-square) | A definir |
-| 6 | ![AWS AI Practitioner](https://img.shields.io/badge/AWS-AI%20Practitioner-3D444D?style=flat-square&labelColor=24292F) | Inteligência artificial em cloud | ![Planejada](https://img.shields.io/badge/Planejada-6E7781?style=flat-square) | A definir |
-| 7 | ![AWS Developer Associate](https://img.shields.io/badge/AWS-Developer%20Associate-3D444D?style=flat-square&labelColor=24292F) | Desenvolvimento em cloud | ![Planejada](https://img.shields.io/badge/Planejada-6E7781?style=flat-square) | A definir |
+| 4 | ![Red Hat RHCE EX294](https://img.shields.io/badge/Red%20Hat-RHCE%20EX294-3D444D?style=flat-square&labelColor=24292F&logo=redhat&logoColor=white) | Automação de sistemas com Ansible | ![Planejada](https://img.shields.io/badge/Planejada-6E7781?style=flat-square) | A definir |
+| 5 | ![LPI LPIC-1 101 e 102](https://img.shields.io/badge/LPI-LPIC--1%20101%20e%20102-3D444D?style=flat-square&labelColor=24292F&logo=linux&logoColor=white) | Administração de sistemas Linux | ![Planejada](https://img.shields.io/badge/Planejada-6E7781?style=flat-square) | A definir |
+| 6 | ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-3D444D?style=flat-square&labelColor=24292F) | Fundamentos de cloud | ![Planejada](https://img.shields.io/badge/Planejada-6E7781?style=flat-square) | A definir |
+| 7 | ![AWS AI Practitioner](https://img.shields.io/badge/AWS-AI%20Practitioner-3D444D?style=flat-square&labelColor=24292F) | Inteligência artificial em cloud | ![Planejada](https://img.shields.io/badge/Planejada-6E7781?style=flat-square) | A definir |
+| 8 | ![AWS Developer Associate](https://img.shields.io/badge/AWS-Developer%20Associate-3D444D?style=flat-square&labelColor=24292F) | Desenvolvimento em cloud | ![Planejada](https://img.shields.io/badge/Planejada-6E7781?style=flat-square) | A definir |
+| 9 | ![AWS Machine Learning Engineer Associate](https://img.shields.io/badge/AWS-Machine%20Learning%20Engineer%20Associate-3D444D?style=flat-square&labelColor=24292F) | Machine learning em cloud | ![Planejada](https://img.shields.io/badge/Planejada-6E7781?style=flat-square) | A definir |
 
 ### Certificações complementares (opcionais)
 
@@ -77,7 +79,6 @@ Certificações que exigem proficiência técnica e experiência prática acumul
 
 | Certificação | Área | Pré-requisito prático | Situação |
 |---|---|---|---|
-| ![AWS Machine Learning Engineer Associate](https://img.shields.io/badge/AWS-Machine%20Learning%20Engineer%20Associate-3D444D?style=flat-square&labelColor=24292F) | Machine learning em cloud | Experiência com serviços de dados e ML na AWS | ![Longo prazo](https://img.shields.io/badge/Longo%20prazo-57606A?style=flat-square) |
 | ![HashiCorp Terraform Associate](https://img.shields.io/badge/HashiCorp-Terraform%20Associate-3D444D?style=flat-square&labelColor=24292F&logo=terraform&logoColor=white) | Infraestrutura como código | Provisionamento de infraestrutura em projetos reais | ![Longo prazo](https://img.shields.io/badge/Longo%20prazo-57606A?style=flat-square) |
 | ![CNCF CKA Certified Kubernetes Administrator](https://img.shields.io/badge/CNCF-CKA%20Certified%20Kubernetes%20Administrator-3D444D?style=flat-square&labelColor=24292F&logo=kubernetes&logoColor=white) | Orquestração de containers | Administração de clusters Kubernetes | ![Longo prazo](https://img.shields.io/badge/Longo%20prazo-57606A?style=flat-square) |
 
@@ -194,12 +195,13 @@ Sistemas e Infraestrutura
   [~] Fundamentos de Linux (LPI Linux Essentials)
   [~] CI/CD com GitHub Actions
   [ ] Administração de sistemas Red Hat (RHCSA)
+  [ ] Automação de sistemas com Ansible (RHCE)
   [ ] Administração de sistemas Linux (LPIC-1)
   [ ] Fundamentos de cloud e IA na AWS
   [ ] Desenvolvimento de aplicações em cloud (AWS Developer Associate)
+  [ ] Machine learning em cloud (AWS ML Engineer Associate)
 
 Horizonte de longo prazo
-  [ ] Machine learning em cloud (AWS ML Engineer Associate)
   [ ] Infraestrutura como código (Terraform Associate)
   [ ] Orquestração de containers com Kubernetes (CKA)
 
