@@ -194,7 +194,7 @@ Sistemas e Infraestrutura
   [x] Ambiente Linux com WSL2 e VM de laboratório
   [~] Fundamentos de Linux (LPI Linux Essentials)
   [~] CI/CD com GitHub Actions
-  [ ] Administração de sistemas Red Hat (RHCSA)
+  [~] Administração de sistemas Red Hat (RHCSA)
   [ ] Automação de sistemas com Ansible (RHCE)
   [ ] Administração de sistemas Linux (LPIC-1)
   [ ] Fundamentos de cloud e IA na AWS
