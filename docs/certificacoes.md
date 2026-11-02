@@ -49,16 +49,3 @@ Certificações que pressupõem proficiência técnica e experiência prática a
 |---|---|---|---|---|
 | ![HashiCorp Terraform Associate](https://img.shields.io/badge/HashiCorp-Terraform%20Associate-3D444D?style=flat-square&labelColor=24292F&logo=terraform&logoColor=white) | 004 | Infraestrutura como código | Provisionamento de infraestrutura em projetos reais | ![Longo prazo](https://img.shields.io/badge/Longo%20prazo-57606A?style=flat-square) |
 | ![CNCF CKA](https://img.shields.io/badge/CNCF-CKA-3D444D?style=flat-square&labelColor=24292F&logo=kubernetes&logoColor=white) | CKA | Orquestração de containers | Administração de clusters Kubernetes | ![Longo prazo](https://img.shields.io/badge/Longo%20prazo-57606A?style=flat-square) |
-
-## Fontes
-
-- [LPI — Linux Essentials](https://www.lpi.org/our-certifications/linux-essentials-overview/)
-- [LPI — Objetivos dos exames 101 e 102](https://www.lpi.org/our-certifications/exam-101-102-objectives/)
-- [Red Hat — RHCSA](https://www.redhat.com/en/services/certification/rhcsa)
-- [Red Hat — RHCE e RHCSA](https://www.redhat.com/en/rhce-and-rhcsa)
-- [Microsoft Learn — GitHub Foundations](https://learn.microsoft.com/en-us/credentials/certifications/github-foundations/)
-- [AWS — Guias dos exames de certificação](https://docs.aws.amazon.com/aws-certification/latest/examguides/aws-certification-exam-guides.html)
-- [Linux Foundation — LFCS](https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/)
-- [Mirantis — Docker Certified Associate](https://training.mirantis.com/certification/dca-certification-exam/)
-- [HashiCorp — Terraform Associate 004](https://developer.hashicorp.com/terraform/tutorials/certification-004/associate-study-004)
-- [Linux Foundation — Catálogo de certificações (CKA)](https://training.linuxfoundation.org/certification-catalog/)
