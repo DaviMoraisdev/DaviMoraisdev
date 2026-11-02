@@ -117,10 +117,10 @@ Administração de sistemas Red Hat, Nginx como API Gateway, containerização d
 
 Ainda não tenho certificações obtidas.
 
-| Certificação | Situação |
-|---|---|
-| LPI Linux Essentials (exame 010-160) | Em preparação, com prova prevista para novembro de 2026 |
-| GitHub Foundations (exame GH-900) | Planejada como próxima etapa |
+| Certificação | Situação | Previsão |
+|---|---|---|
+| ![LPI Linux Essentials](https://img.shields.io/badge/LPI-Linux%20Essentials-3D444D?style=flat-square&labelColor=24292F&logo=linux&logoColor=white) | ![Em preparação](https://img.shields.io/badge/Em%20prepara%C3%A7%C3%A3o-1F6FEB?style=flat-square) | Novembro de 2026 |
+| ![GitHub Foundations](https://img.shields.io/badge/GitHub-Foundations-3D444D?style=flat-square&labelColor=24292F&logo=github&logoColor=white) | ![Planejada](https://img.shields.io/badge/Planejada-6E7781?style=flat-square) | Próxima etapa |
 
 A trilha completa, com as certificações seguintes e as metas de longo prazo, está em [`docs/certificacoes.md`](docs/certificacoes.md). O roadmap de estudos e as ideias de projetos futuros estão em [`docs/roadmap.md`](docs/roadmap.md).
 
