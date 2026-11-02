@@ -2,9 +2,9 @@
 
 # Davi Morais Silva
 
-**Desenvolvimento Back-End · Linux em laboratório**
+**Desenvolvimento · Infraestrutura · Suporte em TI**
 
-Estudante de Análise e Desenvolvimento de Sistemas (3º período), em busca de **estágio ou primeira vaga júnior** em desenvolvimento back-end.
+Estudante de Análise e Desenvolvimento de Sistemas (3º período), em busca de **estágio ou primeira vaga júnior** em desenvolvimento, infraestrutura, suporte técnico e áreas correlatas de TI.
 
 <br>
 
@@ -17,9 +17,11 @@ Estudante de Análise e Desenvolvimento de Sistemas (3º período), em busca de 
 
 ## Sobre
 
-Gosto do que acontece por trás da interface: como uma API valida uma requisição, como serviços trocam informações, como os dados ficam consistentes quando várias operações acontecem ao mesmo tempo e como o sistema operacional sustenta tudo isso.
+Gosto de entender como os sistemas funcionam de ponta a ponta: como uma aplicação processa uma requisição, como serviços trocam informações, como os dados ficam consistentes e como o sistema operacional e o ambiente sustentam tudo isso em execução.
 
-Hoje concentro meu tempo em duas frentes. A principal é uma plataforma de e-commerce em microsserviços, que uso para praticar back-end de forma incremental, por fases documentadas. A segunda é o estudo de Linux, feito em máquina virtual própria e registrado em um caderno de laboratório público, como preparação para a minha primeira certificação.
+Por isso estudo em duas frentes que se complementam. No desenvolvimento, construo uma plataforma de e-commerce em microsserviços, por fases documentadas. Em sistemas, estudo Linux em máquina virtual própria, com um caderno de laboratório público, como preparação para a minha primeira certificação.
+
+Essa combinação me permite contribuir tanto escrevendo código quanto montando ambientes, investigando problemas no terminal e documentando soluções. Estou aberto a começar por desenvolvimento, infraestrutura ou suporte.
 
 Não tenho experiência profissional na área até o momento. Tudo o que está descrito abaixo vem de projetos pessoais e de estudo, com o código e a documentação disponíveis para consulta.
 
@@ -27,12 +29,20 @@ Não tenho experiência profissional na área até o momento. Tudo o que está d
 
 ## O que consigo demonstrar
 
+**Desenvolvimento**
+
 - **APIs REST em Node.js e TypeScript**, com Express, validação de entrada e erros padronizados.
 - **Autenticação e autorização** com hash de senha, JWT (access e refresh token), controle de acesso por papel e limite de tentativas de login.
-- **Consistência de dados**: transações, constraints no banco, reservas de estoque seguras sob concorrência e idempotência por chave em operações que não podem se repetir.
+- **Bancos de dados e consistência**: PostgreSQL, MongoDB e Redis, com transações, constraints, reservas de estoque seguras sob concorrência e idempotência.
 - **Mensageria com RabbitMQ**: padrão outbox, consumo idempotente e fila de mensagens inválidas (dead-letter).
-- **Testes automatizados** unitários e de integração contra PostgreSQL, além de uma suíte ponta a ponta executada localmente.
-- **Linux no terminal**, em laboratório: hierarquia de diretórios, permissões, usuários e grupos, processos, redirecionamento, filtros e shell script.
+- **Testes automatizados** unitários e de integração, com integração contínua no GitHub Actions.
+
+**Sistemas, ambiente e suporte**
+
+- **Linux no terminal**, em laboratório: hierarquia de diretórios, permissões, usuários e grupos, processos, logs, rede básica, redirecionamento, filtros e shell script.
+- **Montagem de ambiente**: VM Ubuntu Server com LVM, acesso por SSH e snapshots; ambiente de desenvolvimento em WSL2; bancos e mensageria em containers com Docker Compose.
+- **Investigação de problemas**: leitura de logs e mensagens de erro, reprodução do defeito e registro da causa e da correção.
+- **Documentação técnica**: guias de instalação, instruções para executar os projetos e registro das decisões e dos erros encontrados.
 
 ---
 
@@ -149,7 +159,7 @@ A trilha completa, com as certificações seguintes e as metas de longo prazo, e
 
 ## Contato
 
-Aberto a oportunidades de **estágio** e **vagas júnior** em desenvolvimento back-end.
+Aberto a oportunidades de **estágio** e **vagas júnior** em desenvolvimento, infraestrutura, suporte técnico e áreas correlatas de TI.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Davi%20Morais-24292F?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-morais-b558b2261)
 [![Repositórios](https://img.shields.io/badge/Repositórios-GitHub-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/DaviMoraisdev?tab=repositories)
