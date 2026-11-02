@@ -50,15 +50,6 @@ Certificações que pressupõem proficiência técnica e experiência prática a
 | HashiCorp Certified: Terraform Associate | 004 | Infraestrutura como código | Provisionamento de infraestrutura em projetos reais | Longo prazo |
 | Certified Kubernetes Administrator (CKA) | CKA | Orquestração de containers | Administração de clusters Kubernetes | Longo prazo |
 
-## Observações sobre versões
-
-Nomes e códigos conferidos nas páginas oficiais dos emissores em 1º de novembro de 2026.
-
-- **Linux Essentials.** A LPI lançou a versão 2.0 do exame (código 010-200) em outubro de 2026. A versão 1.6 (010-160), usada na minha preparação, continua disponível até abril de 2027. O material de estudo e a data da prova estão no [repositório de laboratórios](https://github.com/DaviMoraisdev/linux-essentials-labs/blob/main/PLANO.md).
-- **AWS Developer – Associate.** A AWS informa que o último dia para fazer a versão DVA-C02 é 30 de novembro de 2026; a nova versão, DVA-C03, abre inscrições em 1º de dezembro de 2026.
-- **LPIC-1.** Os exames vigentes são 101-500 e 102-500 (objetivos versão 5.0). O certificado exige a aprovação nas duas provas.
-- **RHCE.** O exame EX294 é centrado em automação com Ansible e pressupõe o RHCSA.
-
 ## Fontes
 
 - [LPI — Linux Essentials](https://www.lpi.org/our-certifications/linux-essentials-overview/)
