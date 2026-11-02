@@ -2,7 +2,7 @@
 
 # Davi Morais Silva
 
-**Desenvolvimento · Infraestrutura · Suporte em TI**
+**Desenvolvimento Back End · Infraestrutura · Junior QA · Sysadmin**
 
 Estudante de Análise e Desenvolvimento de Sistemas (3º período), em busca de **estágio ou primeira vaga júnior** em desenvolvimento, infraestrutura, suporte técnico e áreas correlatas de TI.
 
