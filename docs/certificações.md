@@ -1,0 +1,73 @@
+# Trilha de Certificações
+
+[Voltar ao perfil](../README.md)
+
+Este documento reúne a trilha completa de certificações que pretendo seguir. Ela parte dos fundamentos de Linux, passa pela administração de sistemas Red Hat e LPI e avança para cloud na AWS.
+
+Nenhuma das certificações abaixo foi obtida até o momento. Estar em preparação ou planejada não equivale a ter a competência certificada.
+
+## Legenda de situação
+
+| Situação | Significado |
+|---|---|
+| Obtida | Prova aprovada, com credencial emitida |
+| Em preparação | Estudo em andamento, com prova prevista |
+| Planejada | Faz parte da trilha, sem estudo iniciado |
+| Opcional | Complementar, sem data definida |
+| Longo prazo | Exige experiência prática que ainda não tenho |
+
+## Obtidas
+
+Nenhuma até o momento.
+
+## Trilha principal
+
+| Etapa | Certificação | Código do exame | Área | Situação | Previsão |
+|:---:|---|---|---|---|---|
+| 1 | LPI Linux Essentials | 010-160 (versão 1.6) | Fundamentos de Linux | Em preparação | Novembro de 2026 |
+| 2 | GitHub Foundations | GH-900 | Versionamento e colaboração | Planejada | 2026 / 2027 |
+| 3 | Red Hat Certified System Administrator (RHCSA) | EX200 | Administração de sistemas Red Hat | Planejada | A definir |
+| 4 | Red Hat Certified Engineer (RHCE) | EX294 | Automação de sistemas com Ansible | Planejada | A definir |
+| 5 | LPIC-1 | 101-500 e 102-500 | Administração de sistemas Linux | Planejada | A definir |
+| 6 | AWS Certified Cloud Practitioner | CLF-C02 | Fundamentos de cloud | Planejada | A definir |
+| 7 | AWS Certified AI Practitioner | AIF-C01 | Inteligência artificial em cloud | Planejada | A definir |
+| 8 | AWS Certified Developer – Associate | DVA-C02, substituído por DVA-C03 | Desenvolvimento em cloud | Planejada | A definir |
+| 9 | AWS Certified Machine Learning Engineer – Associate | MLA-C02 | Machine learning em cloud | Planejada | A definir |
+
+## Complementares (opcionais)
+
+| Certificação | Emissor | Área | Situação |
+|---|---|---|---|
+| Linux Foundation Certified System Administrator (LFCS) | Linux Foundation | Administração de sistemas Linux | Opcional |
+| Docker Certified Associate (DCA) | Mirantis | Containers | Opcional |
+
+## Objetivos de longo prazo
+
+Certificações que pressupõem proficiência técnica e experiência prática acumulada. Serão buscadas depois da trilha principal e de vivência real nas respectivas áreas.
+
+| Certificação | Código do exame | Área | Pré-requisito prático | Situação |
+|---|---|---|---|---|
+| HashiCorp Certified: Terraform Associate | 004 | Infraestrutura como código | Provisionamento de infraestrutura em projetos reais | Longo prazo |
+| Certified Kubernetes Administrator (CKA) | CKA | Orquestração de containers | Administração de clusters Kubernetes | Longo prazo |
+
+## Observações sobre versões
+
+Nomes e códigos conferidos nas páginas oficiais dos emissores em 1º de novembro de 2026.
+
+- **Linux Essentials.** A LPI lançou a versão 2.0 do exame (código 010-200) em outubro de 2026. A versão 1.6 (010-160), usada na minha preparação, continua disponível até abril de 2027. O material de estudo e a data da prova estão no [repositório de laboratórios](https://github.com/DaviMoraisdev/linux-essentials-labs/blob/main/PLANO.md).
+- **AWS Developer – Associate.** A AWS informa que o último dia para fazer a versão DVA-C02 é 30 de novembro de 2026; a nova versão, DVA-C03, abre inscrições em 1º de dezembro de 2026.
+- **LPIC-1.** Os exames vigentes são 101-500 e 102-500 (objetivos versão 5.0). O certificado exige a aprovação nas duas provas.
+- **RHCE.** O exame EX294 é centrado em automação com Ansible e pressupõe o RHCSA.
+
+## Fontes
+
+- [LPI — Linux Essentials](https://www.lpi.org/our-certifications/linux-essentials-overview/)
+- [LPI — Objetivos dos exames 101 e 102](https://www.lpi.org/our-certifications/exam-101-102-objectives/)
+- [Red Hat — RHCSA](https://www.redhat.com/en/services/certification/rhcsa)
+- [Red Hat — RHCE e RHCSA](https://www.redhat.com/en/rhce-and-rhcsa)
+- [Microsoft Learn — GitHub Foundations](https://learn.microsoft.com/en-us/credentials/certifications/github-foundations/)
+- [AWS — Guias dos exames de certificação](https://docs.aws.amazon.com/aws-certification/latest/examguides/aws-certification-exam-guides.html)
+- [Linux Foundation — LFCS](https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/)
+- [Mirantis — Docker Certified Associate](https://training.mirantis.com/certification/dca-certification-exam/)
+- [HashiCorp — Terraform Associate 004](https://developer.hashicorp.com/terraform/tutorials/certification-004/associate-study-004)
+- [Linux Foundation — Catálogo de certificações (CKA)](https://training.linuxfoundation.org/certification-catalog/)
